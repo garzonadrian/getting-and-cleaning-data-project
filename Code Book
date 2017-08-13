@@ -1,7 +1,19 @@
 #Code Book
-This code book summarizes the resulting data fields in tidy.txt.
+STEPS:
 
-#Identifiers
+Merging the training and the test sets to create one data set.
+- Reading files
+- trainings tables
+- testing tables
+- feature vector
+-  activity labels
+- Assigning column names
+- Merging all data 
+Extracting only the measurements on the mean and standard deviation for each measurement
+- Reading col names
+- Create vector 
+- Making  subset 
+- Making second tidy data set
+- Writing second tidy data set in txt file
 
-subject - The ID of the test subject.
-activity - The type of activity performed when the corresponding measurements were taken.   
+
